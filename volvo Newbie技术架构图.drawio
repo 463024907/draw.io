@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T09:25:21.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="f37c5-M8vIgB50LEz3ot" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T11:01:53.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BQZbWcF75m36Rgdjc0ij" version="21.5.0" type="github">
   <diagram name="Page-1" id="T4evkczM5tz2uir8NdWq">
     <mxGraphModel dx="1434" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,8 +79,29 @@
         <mxCell id="nDyLXVGqyyg2RE5gqK5G-14" value="volvo-workspace-cms&lt;br&gt;中台内容管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="550" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nDyLXVGqyyg2RE5gqK5G-15" value="volvo-workspace-dmd&lt;br&gt;中台活动管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-10" width="95" height="60" as="geometry" />
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-15" value="volvo-workspace-dmf&lt;br&gt;中台活动管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-10" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-16" value="volvowork-im&lt;br&gt;IM 前端应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-17" value="basic-data&lt;br&gt;中台车型主数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-18" value="basic-data&lt;br&gt;中台车型主数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-19" value="volvo-operation-ms&lt;br&gt;运维中台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-20" value="liteCRM&lt;br&gt;线索管理portal页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-21" value="4 in 1 call center&lt;br&gt;呼叫中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nDyLXVGqyyg2RE5gqK5G-23" value="360realtimerendering&lt;br&gt;3D看车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
