@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T05:14:51.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qLRu9LkG4zUMMGvzaYjg" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:18:02.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="NvIL_sfbQirCK32Fi6Ie" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
         <mxCell id="y5PbMsmPUv0QkU9oSHBO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y5PbMsmPUv0QkU9oSHBO-20" target="y5PbMsmPUv0QkU9oSHBO-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5PbMsmPUv0QkU9oSHBO-20" value="填写巡检记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="y5PbMsmPUv0QkU9oSHBO-20" value="填写巡检报告" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="582.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y5PbMsmPUv0QkU9oSHBO-22" value="发送邮件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -74,13 +74,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5PbMsmPUv0QkU9oSHBO-30" value="潜在问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y5PbMsmPUv0QkU9oSHBO-29">
+        <mxCell id="y5PbMsmPUv0QkU9oSHBO-30" value="记录问题" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y5PbMsmPUv0QkU9oSHBO-29">
           <mxGeometry x="-0.5727" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y5PbMsmPUv0QkU9oSHBO-24" value="是否影响业务" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="412.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y5PbMsmPUv0QkU9oSHBO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y5PbMsmPUv0QkU9oSHBO-26" target="y5PbMsmPUv0QkU9oSHBO-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="613" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y5PbMsmPUv0QkU9oSHBO-36" value="记录故障指标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y5PbMsmPUv0QkU9oSHBO-35">
+          <mxGeometry x="-0.6904" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y5PbMsmPUv0QkU9oSHBO-26" value="联系业务负责人&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="422.5" width="120" height="60" as="geometry" />
