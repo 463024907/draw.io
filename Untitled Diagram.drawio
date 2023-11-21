@@ -1,182 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T10:31:56.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Vs-9roYd-yAqZmdllM_f" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T11:16:21.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TgucRkv1LPbLRss1o4fi" version="22.1.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1194" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="SuaFpD2nNM8USR017ylW-4" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-3">
+        <mxCell id="SuaFpD2nNM8USR017ylW-4" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5">
+        <mxCell id="SuaFpD2nNM8USR017ylW-6" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5">
+        <mxCell id="SuaFpD2nNM8USR017ylW-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5">
+        <mxCell id="SuaFpD2nNM8USR017ylW-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5">
+        <mxCell id="SuaFpD2nNM8USR017ylW-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-12" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-16">
+        <mxCell id="SuaFpD2nNM8USR017ylW-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-16">
+        <mxCell id="SuaFpD2nNM8USR017ylW-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-16">
+        <mxCell id="SuaFpD2nNM8USR017ylW-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-20">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-20">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-23">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-23">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-15" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="SuaFpD2nNM8USR017ylW-26">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-2" target="cqxLbp6pCCY_u_N71Wts-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="SuaFpD2nNM8USR017ylW-2">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-3" target="SuaFpD2nNM8USR017ylW-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-3">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+        <UserObject label="SA-胡传江" treeRoot="1" id="SuaFpD2nNM8USR017ylW-3">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-5" target="SuaFpD2nNM8USR017ylW-30">
+        <UserObject label="SA-宋殿义" treeRoot="1" id="SuaFpD2nNM8USR017ylW-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="吕乐" treeRoot="1" id="SuaFpD2nNM8USR017ylW-20">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="1610" y="630" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SA-马安伦" treeRoot="1" id="SuaFpD2nNM8USR017ylW-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="490" y="630" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-28" target="cqxLbp6pCCY_u_N71Wts-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-5">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        <UserObject label="&lt;b&gt;监控&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-28">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="410" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-16" target="SuaFpD2nNM8USR017ylW-38">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-30" target="cqxLbp6pCCY_u_N71Wts-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-16">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="1080" y="630" width="120" height="60" as="geometry" />
+        <UserObject label="&lt;b&gt;降本增效&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;serverless&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-30">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="550" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-20" target="SuaFpD2nNM8USR017ylW-36">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-34" target="cqxLbp6pCCY_u_N71Wts-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-20">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="877" y="630" width="120" height="60" as="geometry" />
+        <UserObject label="&lt;b&gt;cfs&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="270" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-23" target="SuaFpD2nNM8USR017ylW-32">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-36" target="cqxLbp6pCCY_u_N71Wts-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-23">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="510" y="630" width="120" height="60" as="geometry" />
+        <UserObject label="&lt;b&gt;工具/中间件&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;账号/权限&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-36">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="680" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-26" target="SuaFpD2nNM8USR017ylW-34">
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-50" target="cqxLbp6pCCY_u_N71Wts-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="sa" treeRoot="1" id="SuaFpD2nNM8USR017ylW-26">
+        <UserObject label="&lt;b&gt;安全/redis&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-50">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
+            <mxGeometry x="820" y="860" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="王亚伟" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-12">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="690" y="630" width="120" height="60" as="geometry" />
+            <mxGeometry x="1480" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-47" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-28" target="SuaFpD2nNM8USR017ylW-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;b&gt;监控&lt;br&gt;&lt;/b&gt;巡检&lt;br&gt;活动保障&lt;br&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-28">
+        <UserObject label="段若愚" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-16">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="180" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="1340" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-49" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-30" target="SuaFpD2nNM8USR017ylW-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;b&gt;降本增效&lt;br&gt;&lt;/b&gt;降配/成本" treeRoot="1" id="SuaFpD2nNM8USR017ylW-30">
+        <UserObject label="臧稼骅" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-18">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="1190" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-52" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-32" target="SuaFpD2nNM8USR017ylW-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;b&gt;serverless&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-32">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="510" y="770" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-54" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-34" target="SuaFpD2nNM8USR017ylW-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;b&gt;流程建设&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-34">
+        <UserObject label="王赢" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-20">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="690" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="1050" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;工具管理&lt;br&gt;&lt;/b&gt;hydra&lt;br&gt;confluence&lt;br&gt;seata&lt;br&gt;xxl-job" treeRoot="1" id="SuaFpD2nNM8USR017ylW-36">
+        <UserObject label="吴进辉" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-22">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="877" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="910" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;账号/权限&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-38">
+        <UserObject label="路捷" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-24">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="1080" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="770" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;db&lt;br&gt;&lt;/b&gt;redis" treeRoot="1" id="SuaFpD2nNM8USR017ylW-44">
+        <UserObject label="SA-张聪" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-26">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="1400" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SuaFpD2nNM8USR017ylW-46" value="王秋雨&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SuaFpD2nNM8USR017ylW-48" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="900" width="120" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;b&gt;安全&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-50">
+        <UserObject label="&lt;b&gt;监控面板管理&lt;br&gt;配合技术中台&lt;br&gt;配合性能压测&lt;br&gt;监控工具管理&lt;br&gt;监控规则管理&lt;br&gt;监控运维任务&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;巡检自动化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-28">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="1240" y="770" width="120" height="60" as="geometry" />
+            <mxGeometry x="410" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;李洪恩&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-51">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="510" y="910" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;b&gt;王秋雨&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-53">
+        <UserObject label="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;各类云资源降配&lt;br&gt;推进serverless&lt;br&gt;配合现代化落地&lt;br&gt;费用统计&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-30">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="690" y="910" width="120" height="60" as="geometry" />
+            <mxGeometry x="550" y="1000" width="120" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;流程、制度、规范、标准的&lt;br&gt;设计、宣贯、检验、优化&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="270" y="1000" width="120" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;工具管理&lt;br&gt;各类中间件&lt;br&gt;账号申请&lt;br&gt;权限管理&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="680" y="1000" width="120" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;配合devSecOps&lt;br&gt;安全事件管理&lt;br&gt;redis&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-36">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="820" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
