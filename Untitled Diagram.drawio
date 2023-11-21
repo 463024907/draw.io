@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T11:16:21.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TgucRkv1LPbLRss1o4fi" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T11:21:52.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3IAHnOye0igEAlErFSJt" version="22.1.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1194" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="cqxLbp6pCCY_u_N71Wts-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-30" target="cqxLbp6pCCY_u_N71Wts-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;降本增效&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;serverless&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-30">
+        <UserObject label="&lt;b&gt;降本增效&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-30">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="550" y="860" width="120" height="60" as="geometry" />
           </mxCell>
