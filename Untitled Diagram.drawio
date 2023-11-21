@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T12:33:03.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ilPz9utcI107f6KlTuh6" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T13:00:03.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e7T8yj_AHEq7SLeFQtRx" version="22.1.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
-    <mxGraphModel dx="1194" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -75,7 +75,7 @@
         </UserObject>
         <UserObject label="吕乐" treeRoot="1" id="SuaFpD2nNM8USR017ylW-20">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-            <mxGeometry x="1610" y="630" width="120" height="60" as="geometry" />
+            <mxGeometry x="1630" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SA-马安伦" treeRoot="1" id="SuaFpD2nNM8USR017ylW-26">
@@ -86,12 +86,18 @@
         <mxCell id="cqxLbp6pCCY_u_N71Wts-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-28" target="cqxLbp6pCCY_u_N71Wts-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-43" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-28" target="cqxLbp6pCCY_u_N71Wts-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;b&gt;监控&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-28">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="410" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="cqxLbp6pCCY_u_N71Wts-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-30" target="cqxLbp6pCCY_u_N71Wts-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-45" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-30" target="cqxLbp6pCCY_u_N71Wts-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;降本增效&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-30">
@@ -102,6 +108,9 @@
         <mxCell id="cqxLbp6pCCY_u_N71Wts-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-34" target="cqxLbp6pCCY_u_N71Wts-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-34" target="cqxLbp6pCCY_u_N71Wts-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;b&gt;CFS&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-34">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="270" y="860" width="120" height="60" as="geometry" />
@@ -110,12 +119,18 @@
         <mxCell id="cqxLbp6pCCY_u_N71Wts-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-36" target="cqxLbp6pCCY_u_N71Wts-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-47" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-36" target="cqxLbp6pCCY_u_N71Wts-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;b&gt;工具/中间件&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;账号/权限&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-36">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="680" y="860" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="cqxLbp6pCCY_u_N71Wts-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-50" target="cqxLbp6pCCY_u_N71Wts-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-49" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-50" target="cqxLbp6pCCY_u_N71Wts-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;安全/redis&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-50">
@@ -158,7 +173,7 @@
             <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;监控面板管理&lt;br&gt;配合技术中台&lt;br&gt;配合性能压测&lt;br&gt;监控工具管理&lt;br&gt;监控规则管理&lt;br&gt;监控运维任务&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;巡检自动化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-28">
+        <UserObject label="&lt;b&gt;监控面板管理&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;监控工具管理&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;监控基线管理&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;&lt;b&gt;配合技术中台&lt;br&gt;配合性能压测&lt;br&gt;监控运维任务&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;巡检自动化&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-28">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="410" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
@@ -181,6 +196,52 @@
         <UserObject label="&lt;b&gt;配合devSecOps&lt;br&gt;安全事件管理&lt;br&gt;redis&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-36">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="820" y="1000" width="120" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;前期王秋雨，逐步交接给彭玉琰&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-40">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="270" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;牛磊&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-42">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="410" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;李洪恩/马泽晴&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-44">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="550" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;王成&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-46">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="680" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;郭文轩&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-48">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="820" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-52" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;dashed=1;" edge="1" parent="1" source="cqxLbp6pCCY_u_N71Wts-50" target="cqxLbp6pCCY_u_N71Wts-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cqxLbp6pCCY_u_N71Wts-54" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;dashed=1;" edge="1" parent="1" source="cqxLbp6pCCY_u_N71Wts-50" target="cqxLbp6pCCY_u_N71Wts-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;研发&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-50">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="860" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;待定*3&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-51">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="720" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;推进自动化&lt;br&gt;各类研发需求&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-53">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
