@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T11:21:52.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3IAHnOye0igEAlErFSJt" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T12:33:03.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ilPz9utcI107f6KlTuh6" version="22.1.2" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1194" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
         <mxCell id="cqxLbp6pCCY_u_N71Wts-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="SuaFpD2nNM8USR017ylW-34" target="cqxLbp6pCCY_u_N71Wts-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;cfs&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-34">
+        <UserObject label="&lt;b&gt;CFS&lt;/b&gt;" treeRoot="1" id="SuaFpD2nNM8USR017ylW-34">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="270" y="860" width="120" height="60" as="geometry" />
           </mxCell>
@@ -173,7 +173,7 @@
             <mxGeometry x="270" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;b&gt;工具管理&lt;br&gt;各类中间件&lt;br&gt;账号申请&lt;br&gt;权限管理&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-34">
+        <UserObject label="&lt;b&gt;工具管理&lt;br&gt;各类中间件&lt;br&gt;账号申请&lt;br&gt;系统集成账号管理&lt;br&gt;权限管理&lt;br&gt;&lt;br&gt;&lt;/b&gt;" treeRoot="1" id="cqxLbp6pCCY_u_N71Wts-34">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="680" y="1000" width="120" height="120" as="geometry" />
           </mxCell>
