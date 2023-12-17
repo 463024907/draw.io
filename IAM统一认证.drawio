@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T18:47:27.424Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="q_dZYDdJiqoNeWew82X3" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-17T02:10:12.365Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1zZtyR_eY5I2cxSwhOJm" version="22.1.11" type="github">
   <diagram name="第 1 页" id="eJFpXzni1b8fC1vZ-FIo">
     <mxGraphModel dx="1434" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9BEIbswluYcOFi2VMYx-8" value="Global SSO&lt;br&gt;CDSID 认证 Token签发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Q9BEIbswluYcOFi2VMYx-8" value="Global SSO&lt;br&gt;CDSID 认证 Token签发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="510" y="-70" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Q9BEIbswluYcOFi2VMYx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q9BEIbswluYcOFi2VMYx-9" target="Q9BEIbswluYcOFi2VMYx-10">
@@ -140,7 +140,7 @@
           <mxGeometry x="930" y="350" width="135" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Q9BEIbswluYcOFi2VMYx-92" value="登录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="154" width="60" height="30" as="geometry" />
+          <mxGeometry x="720" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q9BEIbswluYcOFi2VMYx-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#F19C99;strokeWidth=2;" edge="1" parent="1" target="Q9BEIbswluYcOFi2VMYx-39">
           <mxGeometry relative="1" as="geometry">
@@ -155,7 +155,7 @@
         <mxCell id="Q9BEIbswluYcOFi2VMYx-100" value="&lt;b&gt;OPS CMDB&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="154" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q9BEIbswluYcOFi2VMYx-102" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Garamond; background-color: initial;&quot;&gt;ＣＤＳＩＤ管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;" vertex="1" parent="1">
+        <mxCell id="Q9BEIbswluYcOFi2VMYx-102" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Garamond; background-color: initial;&quot;&gt;用户ＣＤＳＩＤ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=center;" vertex="1" parent="1">
           <mxGeometry x="265" y="194.5" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Q9BEIbswluYcOFi2VMYx-103" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
@@ -179,11 +179,10 @@
         <mxCell id="Q9BEIbswluYcOFi2VMYx-110" value="ＸＸＬ－ＪＯＢ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="510" width="195" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Q9BEIbswluYcOFi2VMYx-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.846;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF9999;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" target="Q9BEIbswluYcOFi2VMYx-110">
+        <mxCell id="Q9BEIbswluYcOFi2VMYx-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="320" as="sourcePoint" />
-            <mxPoint x="550" y="464" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="470.5" y="510" as="sourcePoint" />
+            <mxPoint x="556.95" y="318.009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
