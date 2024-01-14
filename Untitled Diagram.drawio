@@ -1,77 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T03:48:27.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1F9a_CTunXECTSjRLzFS" version="22.1.7" type="github">
-  <diagram name="Page-1" id="H7dIQRQOoL_vLUYAkVeh">
-    <mxGraphModel dx="934" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-01-14T01:51:33.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="OKCzXVuquyGonT4bKamR" type="github">
+  <diagram name="Page-1" id="csLShtHqf385U6ardRYJ">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-1" target="jE0RTwJogmcGO7HdN1Og-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="134" y="-120" width="56" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-3" target="jE0RTwJogmcGO7HdN1Og-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-3" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="392" y="-120" width="56" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-7" target="jE0RTwJogmcGO7HdN1Og-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-7" target="jE0RTwJogmcGO7HdN1Og-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-36" value="http code 429" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jE0RTwJogmcGO7HdN1Og-33">
-          <mxGeometry x="0.1111" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-7" value="APIG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;bff及中后台服务&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="536" y="113" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-13" target="jE0RTwJogmcGO7HdN1Og-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-13" value="&lt;strong style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; color: rgb(23, 43, 77); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;对于单-用户token 10秒领券调用次数 &amp;gt;= 60，禁止访问1分钟&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="280" width="215" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-17" value="函数工作流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-18" value="Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="253" y="473" width="83.34" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-21" value="正常用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="127" y="-10" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-22" value="非正常用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-10" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="jE0RTwJogmcGO7HdN1Og-7" target="jE0RTwJogmcGO7HdN1Og-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="295" y="70" />
-              <mxPoint x="165" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-35" value="http code 200" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jE0RTwJogmcGO7HdN1Og-34">
-          <mxGeometry x="0.1806" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jE0RTwJogmcGO7HdN1Og-37" value="活动火爆请等待" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="-85" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
