@@ -1,9 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T06:25:43.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="5LsGkwh7D3za9Zk_22ni" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T07:56:24.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_8z2ooclb-jlQkmhUvvB" version="22.1.18" type="github">
   <diagram name="Page-1" id="ia7iUwZqR8qMmh_oqr4Q">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-50" target="1-78v8VqjT-d2K8T9CEv-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-50" value="newbie后台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-51" target="1-78v8VqjT-d2K8T9CEv-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-51" value="登陆成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-55" target="1-78v8VqjT-d2K8T9CEv-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-64" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-78v8VqjT-d2K8T9CEv-60">
+          <mxGeometry x="-0.3875" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-55" target="1-78v8VqjT-d2K8T9CEv-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-63" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-78v8VqjT-d2K8T9CEv-62">
+          <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-55" value="调用圈人接口判是否进入涌到" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-59" value="展示灰度版本" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-61" target="1-78v8VqjT-d2K8T9CEv-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-67" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-78v8VqjT-d2K8T9CEv-66">
+          <mxGeometry x="-0.2444" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1-78v8VqjT-d2K8T9CEv-61" target="1-78v8VqjT-d2K8T9CEv-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-69" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1-78v8VqjT-d2K8T9CEv-68">
+          <mxGeometry x="-0.1625" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-61" value="是否部署前端灰度" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1-78v8VqjT-d2K8T9CEv-65" value="展示灰度版本" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
