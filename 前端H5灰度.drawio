@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T10:34:25.180Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TejbA6v9ZNaKkbwCqcQS" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T10:36:30.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Le3sVTV-E6P7T78Y7O2D" version="24.1.0" type="github">
   <diagram name="Page-1" id="uXQtC20ATKK_SjKrHWGS">
     <mxGraphModel dx="954" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="q2s_quPgq5r7183FM07C-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q2s_quPgq5r7183FM07C-2" target="q2s_quPgq5r7183FM07C-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q2s_quPgq5r7183FM07C-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q2s_quPgq5r7183FM07C-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="91.25" height="300" as="geometry" />
         </mxCell>
         <mxCell id="q2s_quPgq5r7183FM07C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.117;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#E6D0DE;strokeWidth=2;" edge="1" parent="1" source="tP9XwKi7IRzMbOSDm6fp-5" target="q2s_quPgq5r7183FM07C-4">
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2s_quPgq5r7183FM07C-9" value="WAF" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="q2s_quPgq5r7183FM07C-9" value="WAF" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="165" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q2s_quPgq5r7183FM07C-11" value="&lt;font color=&quot;#ff8000&quot;&gt;CDN灰度：识别请求中cookie包含灰度的标志gray=app-1则会回源，并单独缓存一份文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
