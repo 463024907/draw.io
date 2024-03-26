@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T08:07:13.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="xmXdNWMye_VXO1eIQDJs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:20:42.342Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oQ5NC9A2zf_1j4Q0Y0UG" version="24.1.0" type="github">
   <diagram name="Page-1" id="PdCnAFTS8FPFW3GkIeFX">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fq6fQGaYgkcOLLSfS4_-1" target="4fq6fQGaYgkcOLLSfS4_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-1" value="MQProducer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fq6fQGaYgkcOLLSfS4_-2" target="4fq6fQGaYgkcOLLSfS4_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-2" value="SendMessageHook" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-4" value="&amp;nbsp;MQ Server" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4fq6fQGaYgkcOLLSfS4_-7" value="&lt;font color=&quot;#ff8000&quot;&gt;在message user-property 添加 grapId=app-1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
