@@ -1,28 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T10:12:54.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P7hTX_QAIEncAWj3bn_f" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T10:36:19.516Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lwyACmh0M4EpbXqCKph6" version="24.2.1" type="github">
   <diagram name="Page-1" id="Th8N88LXUIeTQSUrRa-H">
-    <mxGraphModel dx="2044" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LJAPTv93rarVoTPdtGv3-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="430" y="372" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#33001A;width=20;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-280" y="37" as="sourcePoint" />
             <mxPoint x="970" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-60" value="11月30日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="278" y="37" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-61" value="12月1日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-59" y="57" as="geometry">
-            <mxPoint x="510" y="-20" as="offset" />
+        <mxCell id="LJAPTv93rarVoTPdtGv3-60" value="5月15日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="40" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-62" value="12月29日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="37" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-63" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -36,80 +27,47 @@
             <mxPoint x="-40" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-65" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="510" as="sourcePoint" />
-            <mxPoint x="279" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-66" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="453" y="510" as="sourcePoint" />
-            <mxPoint x="453" y="49" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-67" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="510" as="sourcePoint" />
-            <mxPoint x="640" y="49" as="targetPoint" />
+            <mxPoint x="534.25" y="511" as="sourcePoint" />
+            <mxPoint x="534.25" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-68" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="510" as="sourcePoint" />
-            <mxPoint x="119" y="49" as="targetPoint" />
+            <mxPoint x="172" y="510" as="sourcePoint" />
+            <mxPoint x="172" y="49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="281" width="20" height="28.24" as="geometry" />
+          <mxGeometry x="173" y="3" width="20" height="28.24" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="-40" width="20" height="28.24" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-71" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="450" width="20" height="28.24" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
-          <mxGeometry x="640" width="20" height="28.24" as="geometry" />
+          <mxGeometry x="533" y="3" width="20" height="28.24" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-73" value="&lt;span style=&quot;color: rgb(23,43,77);&quot;&gt;B端灰度圈人上线&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-80.5" y="-40" width="120.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-74" value="完成灰度流水&lt;br&gt;线改造实施" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="239.25" y="-40" width="89.5" height="40" as="geometry" />
+          <mxGeometry x="138.25" y="-40" width="89.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-75" value="完成多维度&lt;br&gt;圈人灰度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="407" y="-39" width="89.5" height="40" as="geometry" />
+        <mxCell id="LJAPTv93rarVoTPdtGv3-75" value="灰度下线方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-36" width="89.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-76" value="完成前端灰度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="597" y="-39" width="89.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-77" value="方案输出" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LJAPTv93rarVoTPdtGv3-77" value="B端圈人方案输出" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-280" y="66" width="130" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-78" value="开发测试" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="LJAPTv93rarVoTPdtGv3-78" value="B端圈人方案测试" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-252" y="108" width="130" height="22" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-79" value="代码review" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-212" y="148" width="130" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-80" value="PRE上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="LJAPTv93rarVoTPdtGv3-80" value="B端圈人方案 PRE上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-170" y="189" width="130" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-81" value="灰度服务升级开发" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#2D7600;perimeterSpacing=4;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-24.5" y="230" width="204.75" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-82" value="灰度流水线可视化开发" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#2D7600;perimeterSpacing=4;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="181.25" y="320" width="255.75" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-83" value="多维度圈人灰度" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#2D7600;perimeterSpacing=4;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="53.25" y="270" width="200" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-84" value="前端灰度发布方案制定、实现" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#000000;perimeterSpacing=4;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="431" y="372" width="280" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-85" value="MQ灰度实施" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#000000;perimeterSpacing=4;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="540" y="426" width="260" height="21" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-86" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,22 +78,11 @@
         <mxCell id="LJAPTv93rarVoTPdtGv3-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="920" y="1" width="20" height="28.24" as="geometry" />
         </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-88" value="2024.3.1~待定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="641.75" y="37" as="geometry">
-            <mxPoint x="282" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-89" value="非Newbie系统灰度改造、验证" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;strokeColor=#000000;perimeterSpacing=4;" vertex="1" parent="1">
-          <mxGeometry x="658" y="481" width="260" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-90" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="802" y="510" as="sourcePoint" />
             <mxPoint x="802" y="49" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LJAPTv93rarVoTPdtGv3-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="540" y="427" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LJAPTv93rarVoTPdtGv3-92" value="2024.2.1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="800" y="39" as="geometry" />
@@ -150,6 +97,52 @@
           <mxGeometry y="29.24" as="geometry">
             <mxPoint x="-37" y="8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-97" value="购车&amp;amp;社区容器化改造方案" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-272" y="230" width="170" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-99" value="购车&amp;amp;社区容器化上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="123" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-101" value="购车&amp;amp;社区容器化开发、测试" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="270" width="170" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-102" value="灰度下线功能上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="123" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-103" value="5月31日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="100" as="geometry">
+            <mxPoint x="52" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-105" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="511" as="sourcePoint" />
+            <mxPoint x="360" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-106" value="6月31日" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="534.75" y="40" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-108" value="MQ灰度上线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-37" width="89.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-109" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcUExURQAAAECAn0Bwn0BwmkBym0Bwm0BxnEBwnEBxnEBwnUBwm0Jym0JxnUJynUJxnUJynEFxnEFxnEFxnEFxnEFxnUFxnUFxnEFxnEJwm0ZtmExqkwAAAEFxnFNmjVljiV9fhHFVdYNKZolHYo9DXZVAWJs8U6A5TqU1SasxRL0nNsMjMckgLM8cJ9sVHeESGOcOFO0LD/MHCvkEBf8AAPZub70AAAAbdFJOUwAIIDA4QEhQWGBwgIePl6+3v8fP19/n9/j+/sooa9YAAAAJcEhZcwAAFxEAABcRAcom8z8AAAEQSURBVDhP7ZPbdoIwEEWR2rQoKFCpKAdvFaqgrZL//7fmMlzqivalj+wXSM5mJiwGq4F5QeAxWpgYhlC8jwa0c4sDpFlZ7FfA7KaSQxdgX3FJsQamtt5VvMLS9ZErQfK5RDxuurG4USiXXLZA9KINJ4ZUkiT5pXB+Et0ilz2PAvm0UeH8IM4tSY93Fc7LbLP5OF75A6WmV8z8v1IVeV7ouerSKtdMf9rtmaKaVkmB0PXehLS7UKhpFYRPcspsb47lgVJFq/j1tNo+sD5Rzvl3q3T+HhaJI1G3rxX8WqFYMRjPsdiVFT/nC1neoIhuU/V6gokob1SE5Io/eDYZyvs7SpdeMdMrZmgAaWXkL8WyfgAUeotpuTlZHgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3" width="20" height="28.24" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-110" value="MQ灰度方案输出" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="430" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-111" value="MQ灰度PRE上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-112" value="MQ灰度UAT上线" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="454" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="LJAPTv93rarVoTPdtGv3-113" value="XXl-Job灰度方案输出" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fontSize=12;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="370" width="130" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
