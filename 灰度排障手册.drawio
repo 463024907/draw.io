@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="F86OygyVWi8BkhpHxUEH">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IR3WwhwO9sCtkYni7cwP-1" target="IR3WwhwO9sCtkYni7cwP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-1" value="app原生&lt;div&gt;newbie后台主应用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IR3WwhwO9sCtkYni7cwP-2" target="IR3WwhwO9sCtkYni7cwP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-2" value="内嵌H5&lt;div&gt;pc web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IR3WwhwO9sCtkYni7cwP-4" target="IR3WwhwO9sCtkYni7cwP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-4" value="APIG网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-16" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;1、排查灰度代码是否植入，代码分支需要在&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: 400;&quot;&gt;241330以上 ，&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;http header 是否存在grayid&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;2、圈人接口是否返回正确的灰度标识&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;1、&lt;font color=&quot;#ff0000&quot;&gt;排查灰度代码是否植入 http header 是否存在grayid，cookie中是否存在grayid&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、排查灰度节点是否部署，灰度ingressroute 配置是否正确。dashboard查看是否注册到traefik&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3、排查index.html不缓存策略是否开启&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="462" y="210" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IR3WwhwO9sCtkYni7cwP-20" target="IR3WwhwO9sCtkYni7cwP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-20" value="CSE应用网关" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、header grayid是否开启透传（第一页最下方）&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;2、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;排查策略后端配置：ELB IP地址是否正确，后端路径为/&amp;lt;服务名&amp;gt;/基线的uri&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、策略条件是否为grayid=app-N&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、排查服务管理基线svc和灰度svc是否创建，https服务需要开启tls模式&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、路由管理 匹配 /&amp;lt;服务名&amp;gt;/ ，header头 条件为 grayid=app-1,&amp;nbsp; 规则条件为灰度svc,拓展规则fullback为基线svc，fullback分组要为空&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;3、要开启重写，路径为/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;4、插件管理fix-to-header要开启&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-26" value="服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;灰度节点是否部署，sermant版本是否正确，查看/logs/sermant/ 日志是否存在报错&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;2、灰度depyloyment 中env是否存在 SERVICE_META_VERSION&lt;/div&gt;&lt;div&gt;servicecombo的 env可以删除&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、服务svc是否与CSE中的一致&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="930" width="360" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
