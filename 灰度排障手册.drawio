@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="F86OygyVWi8BkhpHxUEH">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,11 +40,20 @@
         <mxCell id="IR3WwhwO9sCtkYni7cwP-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、排查服务管理基线svc和灰度svc是否创建，https服务需要开启tls模式&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;2、路由管理 匹配 /&amp;lt;服务名&amp;gt;/ ，header头 条件为 grayid=app-1,&amp;nbsp; 规则条件为灰度svc,拓展规则fullback为基线svc，fullback分组要为空&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;3、要开启重写，路径为/&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;4、插件管理fix-to-header要开启&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="660" width="270" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IR3WwhwO9sCtkYni7cwP-26" target="IR3WwhwO9sCtkYni7cwP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IR3WwhwO9sCtkYni7cwP-26" value="服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IR3WwhwO9sCtkYni7cwP-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;灰度节点是否部署，sermant版本是否正确，查看/logs/sermant/ 日志是否存在报错&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;2、灰度depyloyment 中env是否存在 SERVICE_META_VERSION&lt;/div&gt;&lt;div&gt;servicecombo的 env可以删除&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、服务svc是否与CSE中的一致&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; background-color: initial;&quot;&gt;灰度节点是否部署，sermant版本是否正确，在pod查看/logs/sermant/ 日志是否存在报错&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;2、灰度depyloyment 中env是否存在 SERVICE_META_VERSION&lt;/div&gt;&lt;div&gt;servicecombo的 env可以删除&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3、服务svc是否与CSE中的一致&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="470" y="930" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-32" value="MQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR3WwhwO9sCtkYni7cwP-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;1、查看灰度消费组是否创建，故障诊断报告查看SQL92是否构建正确&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;2、在pod查看 sermant log, 构建sql时是否正确获取流量标签&amp;nbsp;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1180" width="310" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
